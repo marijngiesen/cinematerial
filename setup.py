@@ -1,8 +1,9 @@
 from distutils.core import setup
+# from cinematerial import _VERSION_
 
 setup(
     name='cinematerial',
-    version='0.0.1',
+    version='0.0.5',
     packages=['cinematerial'],
     url='',
     license='MIT',
